@@ -1,4 +1,4 @@
-<playground gameboard="north_park.svg" desktop="north_park.desktop">
+<playground gameboard="north-park.svg" desktop="north-park.desktop">
 
 	<object name="cap1" scale="2.2" />
 	<object name="cap2" scale="2" />
