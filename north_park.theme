@@ -1,0 +1,73 @@
+<playground gameboard="north_park.svg" desktop="north_park.desktop">
+
+	<object name="cap1" scale="2.2" />
+	<object name="cap2" scale="2" />
+	<object name="cap3" scale="2" />
+	<object name="cap4" scale="2" />
+
+	<object name="hairstyle1-black" scale="4.34" />
+	<object name="hairstyle1-blonde" scale="4.34" />
+	<object name="hairstyle1-brown" scale="4.34" />
+	<object name="hairstyle1-ginger" scale="4.34" />
+
+	<object name="hairstyle2-black" scale="4.35" />
+	<object name="hairstyle2-blonde" scale="4.35" />
+	<object name="hairstyle2-brown" scale="4.35" />
+	<object name="hairstyle2-ginger" scale="4.35" />
+
+	<object name="hairstyle3-black" scale="4.35" />
+	<object name="hairstyle3-blonde" scale="4.35" />
+	<object name="hairstyle3-brown" scale="4.35" />
+	<object name="hairstyle3-ginger" scale="4.35" />
+
+	<object name="hairstyle4-black" scale="4.35" />
+	<object name="hairstyle4-blonde" scale="4.35" />
+	<object name="hairstyle4-brown" scale="4.35" />
+	<object name="hairstyle4-ginger" scale="4.35" />
+
+	<object name="hairstyle5-black" scale="4" />
+	<object name="hairstyle5-blonde" scale="4" />
+	<object name="hairstyle5-brown" scale="4" />
+	<object name="hairstyle5-ginger" scale="4" />
+
+	<object name="head1" scale="5.2" />
+	<object name="head2" scale="5.2" />
+
+	<object name="beard1" scale="2" />
+	<object name="beard2" scale="2" />
+
+	<object name="eyes1" scale="2" />
+	<object name="eyes2" scale="2" />
+	<object name="eyes3" scale="2" />
+	<object name="eyes4" scale="2" />
+	<object name="eyes5" scale="2" />
+	<object name="eyes6" scale="2" />
+	<object name="eyes7" scale="2" />
+	<object name="eyes8" scale="2" />
+	<object name="eyes9" scale="2" />
+	<object name="eyes10" scale="2" />
+	<object name="eyes11" scale="2" />
+	<object name="eyes12" scale="2" />
+
+	<object name="mouth1" scale="1.5" />
+	<object name="mouth2" scale="1.5" />
+	<object name="mouth3" scale="2" />
+	<object name="mouth4" scale="2" />
+	<object name="mouth5" scale="1.5" />
+	<object name="mouth6" scale="1.5" />
+	<object name="mouth7" scale="1.5" />
+	<object name="mouth8" scale="1.5" />
+	<object name="mouth9" scale="1.5" />
+
+	<object name="logo1" scale="1.4" />
+	<object name="logo2" scale="1.4" />
+	<object name="logo3" scale="1.4" />
+
+	<object name="glasses1" scale="2.1" />
+	<object name="glasses2" scale="3" />
+	<object name="glasses3" scale="3" />
+
+	<object name="hands1" scale="2" />
+	<object name="hands2" scale="2" />
+	
+</playground>
